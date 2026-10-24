@@ -6,7 +6,7 @@ Este repositorio contiene el desarrollo y despliegue de la plataforma web intera
 • Genesis Benavides
 • Roy Garcia
 
- Institución
+#  Institución
 
 • Entidad: Escuela Superior Politécnica del Litoral (ESPOL)
 • Facultad: Facultad de Ingeniería en Electricidad y Computación
@@ -52,5 +52,7 @@ La estructura del código divide de manera limpia las páginas y vistas de la co
 # Bibliografía
 
 • Escuela Superior Politécnica del Litoral [ESPOL]. (2026). Proyecto 02 - Fase 3: Desarrollo - Sprint 1: Lineamientos y Rúbrica de Evaluación. Sistema de Gestión de Aprendizaje Canvas.
+
 • Multiverse / Phantom: A responsive HTML5/CSS3 template de HTML5 UP.
+
 • Organización Copa Piecitos Bike. (2026). Afiche oficial, reglamentos de categorías infantiles y cronograma de competencia en Guayarte. Guayaquil, Ecuador.
